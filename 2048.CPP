@@ -109,7 +109,7 @@ delay(150);
   rectangle(15,15,395,395);
 
 }
-sadadas
+// this is random comment
 
 int upmat(int a[][4])
 { int check=0;
