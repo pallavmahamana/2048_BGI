@@ -6,6 +6,8 @@
 or Download [Dosbox Turbo C++ One Click Installer](http://indiaexam.in/turbo-c-download-windows-7-64-bit-full-screen.html)
 
 
-* Note : Contains Hard Coded Co-ordinates and can create abrupt issues.
+* Note :
+
+    Contains hard coded co-ordinates, so it can look differently on your display depending upon your display resolution. Please change x1, y1, x2, y2 matrix accordingly (where (x1,y1) and (x2,y2) are coordinates of blocks) to make it look correct on your display 
 
 ![alt tag](https://github.com/pallavmahamana/2048_BGI/blob/master/Screenshots/2048.png)
