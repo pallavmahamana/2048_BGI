@@ -2,8 +2,8 @@
 2048 Mathematical Puzzle Game Implemented on BGI Graphics in C++
 
 -> Use [Turbo C++](http://en.wikipedia.org/wiki/Turbo_C%2B%2B)<br>
--> Use DosBox to emulate Turbo C++ in 64bit Environment<br> 
-or Download [Dosbox Turbo C++ One Click Installer](http://indiaexam.in/turbo-c-download-windows-7-64-bit-full-screen.html)
+-> Use (DosBox)(https://www.dosbox.com/) to emulate Turbo C++ in 64bit Environment<br> 
+
 
 
 * Note :
